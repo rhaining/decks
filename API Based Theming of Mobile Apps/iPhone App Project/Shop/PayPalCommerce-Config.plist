@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>skip_initial_onboarding</key>
+	<true/>
+	<key>font</key>
+	<dict>
+		<key>regular_font</key>
+		<string>NovaMono</string>
+		<key>thin_font</key>
+		<string>NovaMono</string>
+		<key>light_font</key>
+		<string>NovaMono</string>
+		<key>medium_font</key>
+		<string>NovaMono</string>
+		<key>bold_font</key>
+		<string>NovaMono</string>
+	</dict>
+</dict>
+</plist>
