@@ -1,2 +1,2 @@
-# decks
-decks of presentations
+# Decks
+These are decks of presentations I’ve given. Included are markdown (`.md`) files, as well as `PDF` files exported from [Deckset](http://www.decksetapp.com). In some cases, video screencasts of demos may be there.
